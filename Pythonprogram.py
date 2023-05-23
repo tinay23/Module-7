@@ -1,7 +1,7 @@
 # Student Grade Management System
 
 # Student information variables
-student_name = "John Doe"  # String variable representing the student's name
+student_name = "Nadia Pinky"  # String variable representing the student's name
 student_age = 18  # Integer variable representing the student's age
 student_grades = [85, 90, 78, 92]  # List variable representing the student's grades
 
